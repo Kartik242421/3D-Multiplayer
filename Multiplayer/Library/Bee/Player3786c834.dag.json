@@ -385,7 +385,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 13658,
+      "PayloadLength": 13868,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -480,20 +480,20 @@
         "E:/Unity/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "E:/Unity/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "E:/Unity/2022.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
-        "E:/GITHUB/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
-        "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
         "E:/Unity/2022.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "E:/Unity/2022.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "E:/Unity/2022.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1399,7 +1399,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Assembly-CSharp.dll"
@@ -1411,7 +1411,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.Timeline.dll"
@@ -1423,7 +1423,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/UnityEngine.UI.dll"
@@ -1435,7 +1435,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonUnityNetworking.dll"
@@ -1447,7 +1447,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonUnityNetworking.Utilities.dll"
@@ -1459,7 +1459,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.TextMeshPro.dll"
@@ -1471,7 +1471,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1483,7 +1483,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1495,7 +1495,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1503,62 +1503,62 @@
       "DebugActionIndex": 92
     },
     {
-      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.dll",
-      "DisplayName": "Copying PhotonChat.dll",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
-      ],
-      "Outputs": [
-        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.dll"
-      ],
-      "DebugActionIndex": 93
-    },
-    {
       "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonRealtime.dll",
       "DisplayName": "Copying PhotonRealtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonRealtime.dll"
       ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.dll",
+      "DisplayName": "Copying PhotonChat.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
+      ],
+      "Outputs": [
+        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.dll"
+      ],
       "DebugActionIndex": 94
-    },
-    {
-      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
-      "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
-      ],
-      "Outputs": [
-        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
-      ],
-      "DebugActionIndex": 95
-    },
-    {
-      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Photon3Unity3D.dll",
-      "DisplayName": "Copying Photon3Unity3D.dll",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
-      ],
-      "Outputs": [
-        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Photon3Unity3D.dll"
-      ],
-      "DebugActionIndex": 96
     },
     {
       "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/websocket-sharp.dll",
       "DisplayName": "Copying websocket-sharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/websocket-sharp.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Photon3Unity3D.dll",
+      "DisplayName": "Copying Photon3Unity3D.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+      ],
+      "Outputs": [
+        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Photon3Unity3D.dll"
       ],
       "DebugActionIndex": 97
     },
@@ -2635,7 +2635,7 @@
       "DisplayName": "Copying Assembly-CSharp.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Assembly-CSharp.pdb"
@@ -2647,7 +2647,7 @@
       "DisplayName": "Copying Unity.Timeline.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.Timeline.pdb"
@@ -2659,7 +2659,7 @@
       "DisplayName": "Copying UnityEngine.UI.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/UnityEngine.UI.pdb"
@@ -2671,7 +2671,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonUnityNetworking.pdb"
@@ -2683,7 +2683,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonUnityNetworking.Utilities.pdb"
@@ -2695,7 +2695,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.TextMeshPro.pdb"
@@ -2707,7 +2707,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Core.pdb"
@@ -2719,7 +2719,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.State.pdb"
@@ -2731,7 +2731,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Unity.VisualScripting.Flow.pdb"
@@ -2739,26 +2739,26 @@
       "DebugActionIndex": 195
     },
     {
-      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.pdb",
-      "DisplayName": "Copying PhotonChat.pdb",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
-      ],
-      "Outputs": [
-        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.pdb"
-      ],
-      "DebugActionIndex": 196
-    },
-    {
       "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonRealtime.pdb",
       "DisplayName": "Copying PhotonRealtime.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonRealtime.pdb"
+      ],
+      "DebugActionIndex": 196
+    },
+    {
+      "Annotation": "CopyFiles E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.pdb",
+      "DisplayName": "Copying PhotonChat.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+      ],
+      "Outputs": [
+        "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/PhotonChat.pdb"
       ],
       "DebugActionIndex": 197
     },
@@ -2767,7 +2767,7 @@
       "DisplayName": "Copying Photon3Unity3D.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+        "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
       ],
       "Outputs": [
         "E:/GITHUB/BUILDS/Build 2/Multiplayer 1_Data/Managed/Photon3Unity3D.pdb"
@@ -2778,7 +2778,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 13830,
+      "PayloadOffset": 14040,
       "PayloadLength": 26,
       "PayloadDebugContentSnippet": "Kartik Singh\nMultiplayer 1",
       "Inputs": [],
@@ -3453,6 +3453,48 @@
   ],
   "StatSignatures": [
     {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+    },
+    {
+      "File": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
+    },
+    {
       "File": "E:/GITHUB/BUILDS/Build 2/GameAssembly.dll"
     },
     {
@@ -3460,48 +3502,6 @@
     },
     {
       "File": "E:/GITHUB/BUILDS/Build 2/UnityCommon.props"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
-    },
-    {
-      "File": "E:/GITHUB/Multiplayer/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
     },
     {
       "File": "E:/Unity/2022.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.pdb"
@@ -3850,6 +3850,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player3786c834.dag.json",
-  "PayloadsFile": "E:/GITHUB/Multiplayer/Library/Bee/Player3786c834.dag.payloads",
+  "PayloadsFile": "E:/GITHUB/3D-Multiplayer/Multiplayer/Library/Bee/Player3786c834.dag.payloads",
   "RelativePathToRoot": "../.."
 }

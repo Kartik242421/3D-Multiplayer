@@ -324,9 +324,13 @@
 -analyzer:"E:/Unity/2022.3.12f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
+"Assets/Scripts/DestroyOverTime.cs"
 "Assets/Scripts/Gun.cs"
 "Assets/Scripts/Launcher.cs"
+"Assets/Scripts/MatchManager.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerSpawner.cs"
+"Assets/Scripts/RoomButton.cs"
 "Assets/Scripts/Spawn Manager.cs"
 "Assets/Scripts/UIController.cs"
 -langversion:9.0
