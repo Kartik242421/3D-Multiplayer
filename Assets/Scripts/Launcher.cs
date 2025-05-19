@@ -31,6 +31,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     public GameObject roomBrowserScreen;
     public RoomButton theRoomButton;
     public List<RoomButton> allRoomButtons = new List<RoomButton>();
+    public Transform roomButtonParent;
 
     public GameObject nameInputScreen;
     public TMP_InputField nameInput;
@@ -233,7 +234,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         {
             if (roomList[i].PlayerCount != roomList[i].MaxPlayers && !roomList[i].RemovedFromList)
             {
-                RoomButton newButton = Instantiate(theRoomButton, theRoomButton.transform.parent);
+                RoomButton newButton = Instantiate(theRoomButton, roomButtonParent);
                 newButton.SetButtonDetails(roomList[i]);
                 newButton.gameObject.SetActive(true);
 
